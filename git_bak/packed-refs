@@ -1,0 +1,15 @@
+# pack-refs with: peeled fully-peeled 
+1c6d09fbc7996e06eccf9866a0114028b19df88c refs/remotes/origin/master
+20f49422b0d35ceabf9172b287bdc77e89a1b1bb refs/remotes/origin/remove-zipkin
+68749804c736b479432d8e206380fc9728f645b9 refs/tags/0.1.0
+14599cdde9a59f6088b16642c7233ebbb2fe2bd9 refs/tags/0.2.0
+6ca5b493cc27d6b424951c0b429555f2f8a6a706 refs/tags/0.3.0
+a5785ab95a819b9fbd91faa0a5a4566035da9988 refs/tags/0.4.0
+39963b861c78f972b9d9a918c250fde90449f4c7 refs/tags/0.4.1
+fd7fb7f98f01766dc6b9bb6c5a89ff4dcfc7bbf1 refs/tags/0.4.2
+d99dff8860795666cee79d73f3e255a93b53575b refs/tags/0.4.3
+ff2cc18bbaa4e8e0f5adf68736b370caba108e0d refs/tags/0.4.4
+bade28b76ff41e643a99940d9a6cbd869dda8792 refs/tags/0.4.5
+1ef22f59cc68fcd56f31b08da78300b9ed24c96d refs/tags/0.4.6
+620e51b55e9a16d3cbaceac01bb1b1c161ce470c refs/tags/0.4.7
+d0a55c9f483269034ab9f2473c1a738b2d7d422b refs/tags/0.4.8
